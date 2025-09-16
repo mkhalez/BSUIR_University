@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MCHA_BSUIR\\solving systems of linear equations\\lab_1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2C0BEB5-9693-4E2E-BD9A-226D878E5A4B}|lab_1_1\\lab_1_1.vcxproj|E:\\MCHA_BSUIR\\solving systems of linear equations\\lab_1_1\\lab_1_1\\lab_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2C0BEB5-9693-4E2E-BD9A-226D878E5A4B}|lab_1_1\\lab_1_1.vcxproj|solutionrelative:lab_1_1\\lab_1_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "lab_1_1.cpp",
+              "DocumentMoniker": "E:\\MCHA_BSUIR\\solving systems of linear equations\\lab_1_1\\lab_1_1\\lab_1_1.cpp",
+              "RelativeDocumentMoniker": "lab_1_1\\lab_1_1.cpp",
+              "ToolTip": "E:\\MCHA_BSUIR\\solving systems of linear equations\\lab_1_1\\lab_1_1\\lab_1_1.cpp",
+              "RelativeToolTip": "lab_1_1\\lab_1_1.cpp",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAYwJoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-09T06:20:51.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
