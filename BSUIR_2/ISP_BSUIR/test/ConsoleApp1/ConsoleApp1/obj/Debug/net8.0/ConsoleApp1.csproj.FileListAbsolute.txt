@@ -1,0 +1,14 @@
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll

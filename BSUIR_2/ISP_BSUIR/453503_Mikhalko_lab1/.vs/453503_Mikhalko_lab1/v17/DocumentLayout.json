@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\tools\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\tools\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\entities\\transportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\entities\\transportsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\interfaces\\icustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\entities\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\entities\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\contracts\\cargotransportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\contracts\\cargotransportation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\collections\\mycustomcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\453503_mikhalko_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\453503_mikhalko_lab1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|e:\\bsuir\\bsuir_2\\isp_bsuir\\453503_mikhalko_lab1\\453503_mikhalko_lab1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{7DA51976-0E33-4830-AB0D-858D8E59E304}|453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj|solutionrelative:453503_mikhalko_lab1\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyCustomCollection.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Collections\\MyCustomCollection.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Collections\\MyCustomCollection.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Collections\\MyCustomCollection.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Collections\\MyCustomCollection.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAArwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:43:50.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Entities\\Tariff.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Entities\\Tariff.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Entities\\Tariff.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Entities\\Tariff.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:12:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransportSystem.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Entities\\TransportSystem.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Entities\\TransportSystem.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Entities\\TransportSystem.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Entities\\TransportSystem.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAzwIQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T17:19:25.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Tools\\Extensions.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Tools\\Extensions.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Tools\\Extensions.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Tools\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T13:49:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICustomCollection.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Interfaces\\ICustomCollection.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Interfaces\\ICustomCollection.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Interfaces\\ICustomCollection.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Interfaces\\ICustomCollection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:26:33.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CargoTransportation.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Contracts\\CargoTransportation.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Contracts\\CargoTransportation.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Contracts\\CargoTransportation.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Contracts\\CargoTransportation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:26:45.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Entities\\User.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Entities\\User.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Entities\\User.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvx8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:05:49.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "453503_Mikhalko_lab1.csproj",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\453503_Mikhalko_lab1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T16:17:59.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Program.cs",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\Program.cs",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\Program.cs",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAASwCoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:15:48.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "453503_Mikhalko_lab1\\ClassDiagram1.cd",
+              "ToolTip": "E:\\BSUIR\\BSUIR_2\\ISP_BSUIR\\453503_Mikhalko_lab1\\453503_Mikhalko_lab1\\ClassDiagram1.cd",
+              "RelativeToolTip": "453503_Mikhalko_lab1\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-09-04T18:49:28.632Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
