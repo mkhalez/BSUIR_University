@@ -6,33 +6,19 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            MyCustomCollection<double> collection = new MyCustomCollection<double>();
+            MyCustomCollection<int> collection = new MyCustomCollection<int>();
             collection.Add(1);
             collection.Add(2);
             collection.Add(3);
-            collection.Add(4);
-            collection.Add(5);
-            collection.Add(6);
+            collection.Remove(1);
 
-            Console.WriteLine(collection.Sum());
-
-        }
-    }
-
-    internal static class Extensions
-    {
-        public static T Sum<T>(this IEnumerable<T> data)
-        where T : IAdditionOperators<T, T, T>, new()
-        {
-            T result = new();
-            foreach (var item in data)
+            foreach (var item in collection)
             {
-                result += item;
+                Console.WriteLine(item);
             }
-            return result;
+
         }
     }
-
 
     internal class MyCustomCollection<T> : IEnumerable<T>
     {
@@ -48,14 +34,54 @@ namespace ConsoleApp1
         private Node cursor;
         private int count = 0;
 
+        private class Enumerator : IEnumerator<T>
+        {
+            private readonly MyCustomCollection<T> collection;
+
+            public Enumerator(MyCustomCollection<T> collection)
+            {
+                this.collection = collection;
+                collection.Reset();
+                beforeFirst = true;
+            }
+
+            private bool beforeFirst;
+
+            public bool MoveNext()
+            {
+                if (beforeFirst)
+                {
+                    beforeFirst = false;
+                    return collection.head != null;
+                }
+
+                try
+                {
+                    collection.MoveNext();
+                    return true;
+                }
+                catch
+                {
+                    return false;
+                }
+            }
+
+            public void Reset()
+            {
+                collection.Reset();
+                beforeFirst = true;
+            }
+
+            public T Current => collection.Current();
+
+            object IEnumerator.Current => Current;
+
+            public void Dispose() { }
+        }
+
         public IEnumerator<T> GetEnumerator()
         {
-            Node current = head;
-            while (current != null)
-            {
-                yield return current.data;
-                current = current.next;
-            }
+            return new Enumerator(this);
         }
 
         IEnumerator IEnumerable.GetEnumerator()
@@ -112,7 +138,8 @@ namespace ConsoleApp1
 
         public void Remove(T item)
         {
-            if (head == null) return;
+            if (head == null)
+                throw new Exception("Элемент не найден в коллекции");
 
             if (Equals(head.data, item))
             {
@@ -136,6 +163,8 @@ namespace ConsoleApp1
                 }
                 iterator = iterator.next;
             }
+
+            throw new Exception("Элемент не найден в коллекции");
         }
 
         public T RemoveCurrent()
@@ -201,5 +230,4 @@ namespace ConsoleApp1
             }
         }
     }
-
 }

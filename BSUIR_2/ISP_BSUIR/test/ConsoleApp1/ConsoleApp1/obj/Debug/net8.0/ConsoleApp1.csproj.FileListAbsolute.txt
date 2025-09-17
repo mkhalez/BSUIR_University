@@ -12,3 +12,4 @@ E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\
 E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+E:\BSUIR\BSUIR_2\ISP_BSUIR\test\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

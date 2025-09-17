@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_453503_Mikhalko_lab1.Collections.MyCustomCollection&lt;T&gt;">
+    <Position X="1" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="_453503_Mikhalko_lab1.Collections.MyCustomCollection&lt;T&gt;.Node" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Collections\MyCustomCollection.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgAAABBEADACABAQAAAgAAAAEIAAAAAAAAgA=</HashCode>
+      <FileName>Collections\MyCustomCollection.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="_453503_Mikhalko_lab1.Entities.Tariff">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAABAAAAAAAAAAAAIAAAAAAiA=</HashCode>
+      <FileName>Entities\Tariff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_453503_Mikhalko_lab1.Entities.TransportSystem">
+    <Position X="10.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAEAAAAAAAAAAACAgAIAAAAAAAAICAAAAAAgCAACAAA=</HashCode>
+      <FileName>Entities\TransportSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_453503_Mikhalko_lab1.Entities.User">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQIAAAAAAAAAAAAAAACAiA=</HashCode>
+      <FileName>Entities\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="_453503_Mikhalko_lab1.Contracts.CargoTransportation">
+    <Position X="5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAAAAAAAAAACAgAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Contracts\CargoTransportation.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="_453503_Mikhalko_lab1.Interfaces.ICustomCollection&lt;T&gt;">
+    <Position X="8.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAABAAACACABAQAAAgAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ICustomCollection.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
